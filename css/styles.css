@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: blue;
+  cursor: pointer;
+}
+
+p{
+  display: none;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+h2:hover {
+  text-decoration: underline;
+}
+img {
+  display: none;
+}
